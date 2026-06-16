@@ -1,0 +1,10 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+<title>Kesteven Coffee Shop</title>
+<circle cx="120" cy="120" r="110" fill="#4A2F1C"/>
+<circle cx="120" cy="120" r="95" fill="none" stroke="#C68A3E" stroke-width="2"/>
+<path d="M102 92 c -8 -8 8 -16 0 -28 M120 92 c -8 -8 8 -16 0 -28 M138 92 c -8 -8 8 -16 0 -28" fill="none" stroke="#E7B870" stroke-width="2.6" stroke-linecap="round"/>
+<rect x="92" y="102" width="56" height="42" rx="13" fill="none" stroke="#F4E8D8" stroke-width="3.4"/>
+<path d="M148 112 q 20 9 0 28" fill="none" stroke="#F4E8D8" stroke-width="3.4" stroke-linecap="round"/>
+<ellipse cx="120" cy="150" rx="40" ry="6" fill="none" stroke="#F4E8D8" stroke-width="3.4"/>
+<text x="120" y="190" text-anchor="middle" font-family="'Helvetica Neue', 'Liberation Sans', Arial, sans-serif" font-size="15" letter-spacing="5" fill="#E7B870">KESTEVEN</text>
+</svg>
